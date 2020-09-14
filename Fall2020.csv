@@ -1,11 +1,12 @@
 Activity Name,Lower Bound Hours Per Week,Most Likely Hours Per Week,Upper Bound Hours Per Week
-BME LAB 1,5,7,10
-BME 1,5,7,10
-Quant Phys,5,7,10
-Intro EE,5,7,10
-Biostat,5,7,10
-FSAE,3,5,10
-CSI,3,5,10
+BME LAB 1,5,7,9
+BME 1,5,7,9
+Quant Phys,5,7,9
+Intro EE,5,7,9
+Biostat,5,7,9
+FSAE,5,7,9
+CSI,5,7,9
+IEEE EBMS,5,7,9
 CUCyber,2,5,5
 Research,4,6,9
 Instrument,1,2,3
